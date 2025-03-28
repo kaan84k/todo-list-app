@@ -16,14 +16,15 @@ A simple **To-Do List App** built with HTML, CSS, and JavaScript. This app allow
 
 ## Project Structure
 
-todo-list-app/ 
-├── images/ 
-  │ ├── checked.png 
-  │ └── unchecked.png 
-├── index.html 
-├── style.css 
-├── script.js 
-└── README.md
+todo-list-app/
+├── images/                # Folder containing images for checked and unchecked icons
+│    ├── checked.png       # Icon for completed task
+│    └── unchecked.png     # Icon for incomplete task
+├── index.html             # Main HTML file containing the structure of the app
+├── style.css              # CSS file for styling the app
+├── script.js              # JavaScript file for the app's logic and functionality
+└── README.md              # Project documentation file
+
 
 
 ## Installation
