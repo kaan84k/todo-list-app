@@ -14,19 +14,6 @@ A simple **To-Do List App** built with HTML, CSS, and JavaScript. This app allow
 
 ![To-Do List Screenshot](images/todo-preview.png)
 
-## Project Structure
-
-todo-list-app/
-├── images/                # Folder containing images for checked and unchecked icons
-│    ├── checked.png       # Icon for completed task
-│    └── unchecked.png     # Icon for incomplete task
-├── index.html             # Main HTML file containing the structure of the app
-├── style.css              # CSS file for styling the app
-├── script.js              # JavaScript file for the app's logic and functionality
-└── README.md              # Project documentation file
-
-
-
 ## Installation
 
 1. Clone the repository to your local machine:
